@@ -4,10 +4,17 @@
         <div class="text">
             <p>The "Play a game you won on SteamGifts" event focuses on playing games that fit a community choosen theme every month.</p>
 
-            <div style="text-align:center;padding-top:20px;"><h1><a href="https://www.steamgifts.com/discussion/Eh2Uk/" target="_blank">August's event thread</a></h1></div>
+            <div style="text-align:center;padding-top:20px;"><h1><a href="https://www.steamgifts.com/discussion/FFZNY/" target="_blank">June's event thread</a></h1></div>
 
             <div>
              <h3>Previous months:</h3>
+		<p>2020: 
+                    <a href="https://www.steamgifts.com/discussion/5rs7W/" target="_blank">January</a> - 
+                    <a href="https://www.steamgifts.com/discussion/JVCZM/" target="_blank">February</a> - 
+                    <a href="https://www.steamgifts.com/discussion/RdYRC/" target="_blank">March</a> - 
+                    <a href="https://www.steamgifts.com/discussion/utGX9/" target="_blank">April</a> - 
+                    <a href="https://www.steamgifts.com/discussion/fY6zj/" target="_blank">May</a> - 
+                </p>
                 <p>2019: 
                     <a href="https://www.steamgifts.com/discussion/3BvHt/" target="_blank">January</a> - 
                     <a href="https://www.steamgifts.com/discussion/Gvsp8/" target="_blank">February</a> - 
@@ -16,6 +23,11 @@
                     <a href="https://www.steamgifts.com/discussion/BuklI/" target="_blank">May</a> - 
                     <a href="https://www.steamgifts.com/discussion/GGIZ7/" target="_blank">June</a> -
                     <a href="https://www.steamgifts.com/discussion/MESdN/" target="_blank">July</a>
+                    <a href="https://www.steamgifts.com/discussion/Eh2Uk/" target="_blank">August</a> - 
+                    <a href="https://www.steamgifts.com/discussion/fvcKh/" target="_blank">September</a> - 
+                    <a href="https://www.steamgifts.com/discussion/ycJ8w/" target="_blank">October</a> - 
+                    <a href="https://www.steamgifts.com/discussion/QuLEf/" target="_blank">November</a> - 
+                    <a href="https://www.steamgifts.com/discussion/uuzPk/" target="_blank">December</a>
                 </p>
                 <p>2018:
                    <a href="https://www.steamgifts.com/discussion/mBMUY/" target="_blank">January</a> - 
@@ -60,7 +72,6 @@
 
 <style lang="less">
     @import "../assets/mixins";
-
     .mainpage{
         border-bottom: 5px dotted @color-light-pink;
     }
